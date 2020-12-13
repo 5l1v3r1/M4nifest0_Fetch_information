@@ -21,7 +21,7 @@
 
 ##### See Training 
 
-- 🔞 See Training 🎥 https://youtu.be/yGlkzXxvdkE 🎥
+- 🔞 See Training 🎥 https://youtu.be/g2EXA1Chrhg 🎥
 
 ----------------------
 
