@@ -4,8 +4,6 @@
 
 ##### 👁‍🗨 Project features:👇 #####
 ----------------------
-- 📌 ☠️ Masterpiece version after 1 month of programming by ☠️👊 M4nifest0 Black Hat Hacking Team™💪(Bad Boys)
-- 📌 Python +3.8.5 programming language is used.
 - 📌 Target biography identification
 - 📌 Identify the last Target hits
 - 📌 Target Phone Identification
