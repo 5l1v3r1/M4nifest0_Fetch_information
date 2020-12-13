@@ -4,12 +4,15 @@
 
 ##### 👁‍🗨 Project features:👇 #####
 ----------------------
-- 📌 Target biography identification
-- 📌 Identify the last Target hits
-- 📌 Target Phone Identification
-- 📌 Target email identification
-- 📌 Identify the links used from the target
-- 📌 Identify target records
+- 📌 Looking to identify people on Instagram?
+- 📌 Looking to extract people on Instagram?
+- 📌 Are you looking for people to be online or offline on Instagram?
+- 📌 Are you a security manager?
+- 📌 Are you an observer?
+- 📌 Are you looking to identify the last time people were active?
+- 📌 Easily identify the latest activity of individuals.
+- 📌 Easily extract profiles.
+- 📌 Easily count other people on Instagram.
 - 📌 And...
 - 📌 Just run and enjoy
 
